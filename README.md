@@ -2,7 +2,6 @@
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on projects
-- 📫 How to reach me
 - ⚡ Fun fact: Bill Gates and Tic-Tac-Toe: Picture this: A young Bill Gates (yep, the Microsoft wizard) sat down and coded a Tic-Tac-Toe game. You know, that Xs-and-Os thing we play when we’re bored? Well, he made a computer play it. Mind blown!🎮
 
 <!---
