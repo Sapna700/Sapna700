@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Sapna</h1>
 <h3 align="center">I am still learning and developing my skills</h3>
 
-<img align="right"alt="coding"width="400"src="(https://github.com/user-attachments/assets/f81880bd-7733-4073-8fba-3517fec4de14)">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sapna700&label=Profile%20views&color=0e75b6&style=flat" alt="sapna700" /> </p>
 
