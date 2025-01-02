@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Sapna</h1>
-<h3 align="center">I am learning and developing my skills</h3>
+<h3 align="center">I am exploring and developing my skills</h3>
 
 
 
